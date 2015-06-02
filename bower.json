@@ -1,0 +1,31 @@
+{
+	"name": "springy-carousel",
+	"version": "0.0.1",
+	"homepage": "http://joshuapekera.github.io/springy-carousel",
+	"authors": [
+		"Joshua Pekera <joshuapekera@me.com>"
+	],
+	"description": "A carousel powered by Facebook's reboundjs.",
+	"main": "dist/jquery.springyCarousel.js",
+	"keywords": [
+		"jquery",
+		"plugin",
+		"carousel",
+		"rebound",
+		"reboundjs",
+		"rebound-js",
+		"jquery-plugin",
+		"springy-carousel"
+	],
+	"license": "MIT",
+	"ignore": [
+    "/.*",
+    "_config.yml",
+    "CNAME",
+    "CONTRIBUTING.md"
+  ],
+  "dependencies": {
+    "jquery": ">= 1.9.1",
+    "rebound-js": "~0.0.10"
+  }
+}
