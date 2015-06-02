@@ -1,6 +1,6 @@
 # Springy Carousel
 
-> A carousel powered by Facebook's rebound.js
+A carousel powered by Facebook's rebound.js
 
 
 ## Getting Started
